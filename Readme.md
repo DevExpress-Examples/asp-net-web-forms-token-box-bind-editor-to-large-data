@@ -14,9 +14,9 @@ This example demonstrates how to bind the [ASPxTokenBox](https://docs.devexpress
 
 The client-side [KeyUp](https://docs.devexpress.com/AspNet/js-ASPxClientTextEdit.KeyUp) event occurs after a user enters a character in the token box. In this example, this event's handler performs the following actions when 3 or more characters are entered:
 
-1. Clears the control's token collection
-2. Searches the data source for items that include the entered text
-3. Populates the token box with found items
+1. Clears the control's token collection.
+2. Searches the data source for items that include the entered text.
+3. Populates the token box with found items.
 
 Once a user selects a token, the [TokensChanged](https://docs.devexpress.com/AspNet/js-ASPxClientTokenBox.TokensChanged) event occurs. The event handler clears the token collection and hides the control's drop-down window.
 
