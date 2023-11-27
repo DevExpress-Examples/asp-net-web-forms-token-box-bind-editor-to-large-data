@@ -8,6 +8,8 @@
 <!-- run online end -->
 This example demonstrates how to bind the [ASPxTokenBox](https://docs.devexpress.com/AspNet/16295/components/data-editors/tokenbox) control to a large data source on the client side.
 
+![Bind Token Box to Large Data](result.png)
+
 ## Overview
 
 The client-side [KeyUp](https://docs.devexpress.com/AspNet/js-ASPxClientTextEdit.KeyUp) event occurs after a user enters a character in the token box. In this example, this event's handler performs the following actions when 3 or more characters are entered:
