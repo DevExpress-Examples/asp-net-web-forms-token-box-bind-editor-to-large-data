@@ -4,9 +4,6 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 # Token Box for ASP.NET Web Forms - How to bind the control to a large data source
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/128531304/)**
-<!-- run online end -->
 This example demonstrates how to bind the [ASPxTokenBox](https://docs.devexpress.com/AspNet/16295/components/data-editors/tokenbox) control to a large data source on the client side.
 
 ![Bind Token Box to Large Data](result.png)
